@@ -1,0 +1,29 @@
+.Container-1{
+    border: solid;
+    text-align: center;
+}
+.title{
+
+    padding: 1%;
+    display: flex;
+    border: solid;
+    text-align: center;
+    justify-content: space-around;
+
+}
+
+.btns{
+
+    padding: 1%;
+    display: flex;
+    border: solid; 
+    justify-content: space-around;
+
+}
+
+.btns div{
+
+    padding: 10px;
+
+}
+
